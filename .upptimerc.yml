@@ -15,7 +15,7 @@ status-website:
   navbar:
     - title: Status
       href: /
-    #- title: Wrk Community Portal
-    #href: https://community.wrk.com/
+    - title: Community Portal
+      href: https://community.wrk.com/
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
