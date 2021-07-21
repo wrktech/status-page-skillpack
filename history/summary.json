@@ -4,19 +4,19 @@
     "url": "https://community.wrk.com",
     "icon": "https://favicons.githubusercontent.com/community.wrk.com",
     "slug": "community",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 263,
-    "timeDay": 263,
-    "timeWeek": 263,
-    "timeMonth": 263,
-    "timeYear": 263,
+    "status": "up",
+    "uptime": "98.52%",
+    "uptimeDay": "98.52%",
+    "uptimeWeek": "98.52%",
+    "uptimeMonth": "98.52%",
+    "uptimeYear": "98.52%",
+    "time": 258,
+    "timeDay": 258,
+    "timeWeek": 258,
+    "timeMonth": 258,
+    "timeYear": 258,
     "dailyMinutesDown": {
-      "2021-07-21": 0
+      "2021-07-21": 17
     }
   }
 ]
