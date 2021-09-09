@@ -1,14 +1,14 @@
 [
   {
     "name": "Community",
-    "url": "https://community.wrk.com",
+    "url": "https://community.wrk.com/",
     "icon": "https://favicons.githubusercontent.com/community.wrk.com",
     "slug": "community",
     "status": "up",
     "uptime": "99.90%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.77%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.90%",
     "time": 288,
     "timeDay": 227,
@@ -16,6 +16,7 @@
     "timeMonth": 227,
     "timeYear": 288,
     "dailyMinutesDown": {
+      "2021-09-09": 3,
       "2021-07-26": 9,
       "2021-07-23": 20,
       "2021-07-22": 27,
