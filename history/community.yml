@@ -1,7 +1,7 @@
 url: https://community.wrk.com/health
-status: degraded
+status: up
 code: 200
-responseTime: 219
-lastUpdated: 2021-11-03T21:22:27.566Z
+responseTime: 524
+lastUpdated: 2021-11-03T21:50:20.541Z
 startTime: Tue Jul 20 2021 17:42:17 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
