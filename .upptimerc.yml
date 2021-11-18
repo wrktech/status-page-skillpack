@@ -7,6 +7,10 @@ sites:
     url: https://community.wrk.com/health
     __dangerous__body_down: "Down"
     __dangerous__body_degraded: "Degraded"
+ - name: Account
+   url: https://account.wrk.com/health
+   __dangerous__body_down: "Down"
+   __dangerous__body_degraded: "Degraded"
 
 status-website:
   cname: status.wrk.com
@@ -19,5 +23,7 @@ status-website:
       href: /
     - title: Community Portal
       href: https://community.wrk.com/
+   - title: Account Portal
+     href: https://account.wrk.com/
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
