@@ -6,13 +6,13 @@
     "slug": "community",
     "status": "up",
     "uptime": "98.30%",
-    "uptimeDay": "95.76%",
+    "uptimeDay": "96.47%",
     "uptimeWeek": "99.22%",
     "uptimeMonth": "98.25%",
     "uptimeYear": "98.30%",
     "time": 279,
-    "timeDay": 209,
-    "timeWeek": 202,
+    "timeDay": 215,
+    "timeWeek": 203,
     "timeMonth": 307,
     "timeYear": 279,
     "dailyMinutesDown": {
@@ -78,11 +78,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 259,
-    "timeDay": 170,
-    "timeWeek": 177,
-    "timeMonth": 259,
-    "timeYear": 259,
+    "time": 254,
+    "timeDay": 174,
+    "timeWeek": 179,
+    "timeMonth": 254,
+    "timeYear": 254,
     "dailyMinutesDown": {}
   }
 ]
