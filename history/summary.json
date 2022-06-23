@@ -4,15 +4,15 @@
     "url": "https://community.wrk.com/health",
     "icon": "https://favicons.githubusercontent.com/community.wrk.com",
     "slug": "community",
-    "status": "up",
-    "uptime": "99.64%",
-    "uptimeDay": "92.28%",
-    "uptimeWeek": "96.46%",
-    "uptimeMonth": "98.52%",
-    "uptimeYear": "99.64%",
+    "status": "degraded",
+    "uptime": "99.65%",
+    "uptimeDay": "92.27%",
+    "uptimeWeek": "96.50%",
+    "uptimeMonth": "98.51%",
+    "uptimeYear": "99.65%",
     "time": 299,
-    "timeDay": 239,
-    "timeWeek": 230,
+    "timeDay": 244,
+    "timeWeek": 229,
     "timeMonth": 235,
     "timeYear": 299,
     "dailyMinutesDown": {
@@ -66,8 +66,7 @@
       "2022-03-28": 13,
       "2022-03-24": 47,
       "2022-03-21": 11,
-      "2022-03-18": 10,
-      "2022-03-17": 44
+      "2022-03-18": 10
     }
   },
   {
@@ -75,16 +74,16 @@
     "url": "https://account.wrk.com/health",
     "icon": "https://favicons.githubusercontent.com/account.wrk.com",
     "slug": "account",
-    "status": "up",
-    "uptime": "99.44%",
-    "uptimeDay": "93.07%",
-    "uptimeWeek": "96.35%",
+    "status": "degraded",
+    "uptime": "99.45%",
+    "uptimeDay": "93.06%",
+    "uptimeWeek": "96.38%",
     "uptimeMonth": "98.51%",
-    "uptimeYear": "99.44%",
+    "uptimeYear": "99.45%",
     "time": 307,
-    "timeDay": 211,
+    "timeDay": 216,
     "timeWeek": 222,
-    "timeMonth": 220,
+    "timeMonth": 221,
     "timeYear": 307,
     "dailyMinutesDown": {
       "2022-06-23": 63,
@@ -139,8 +138,7 @@
       "2022-03-18": 10,
       "2022-03-17": 44,
       "2022-03-16": 15,
-      "2022-03-04": 20,
-      "2022-02-28": 19
+      "2022-03-04": 20
     }
   }
 ]
