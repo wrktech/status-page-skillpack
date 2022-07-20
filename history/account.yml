@@ -1,7 +1,7 @@
 url: https://account.wrk.com/health
-status: up
-code: 200
-responseTime: 293
-lastUpdated: 2022-07-20T20:49:34.540Z
+status: down
+code: 502
+responseTime: 765
+lastUpdated: 2022-07-20T21:22:00.640Z
 startTime: Thu Nov 18 2021 17:16:25 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
