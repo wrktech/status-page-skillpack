@@ -4,26 +4,20 @@ repo: status-page # The name of this repository
 
 sites:
   - name: Community
-    url: https://community.wrk.com/health
-    __dangerous__body_down: "Down"
-    __dangerous__body_degraded: "Degraded"
-  - name: Account
-    url: https://account.wrk.com/health
+    url: https://portal.skillpack.io/health
     __dangerous__body_down: "Down"
     __dangerous__body_degraded: "Degraded"
 
 status-website:
-  cname: status.wrk.com
-  logoUrl: https://wrk.com/wp-content/themes/wundertheme2020/assets/img/logo.svg
-  name: Wrk
+  cname: status.skillpack.io
+#  logoUrl: https://wrk.com/wp-content/themes/wundertheme2020/assets/img/logo.svg
+  name: Skillpack
   #introTitle: "**Wrk** is the open-source uptime monitor and status page, powered entirely by GitHub."
   #introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
   navbar:
     - title: Status
       href: /
     - title: Community Portal
-      href: https://community.wrk.com/
-    - title: Account Portal
-      href: https://account.wrk.com/
+      href: https://portal.skillpack.io/
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
