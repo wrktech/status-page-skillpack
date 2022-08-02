@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Community",
+    "url": "https://portal.skillpack.io/health",
+    "icon": "https://favicons.githubusercontent.com/portal.skillpack.io",
+    "slug": "community",
+    "status": "down",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 316,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 373,
+    "timeYear": 315,
+    "dailyMinutesDown": {}
+  }
+]
