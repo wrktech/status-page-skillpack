@@ -10,7 +10,7 @@ sites:
 
 status-website:
   cname: status.skillpack.io
-#  logoUrl: https://wrk.com/wp-content/themes/wundertheme2020/assets/img/logo.svg
+  logoUrl: https://skillpack.io/wp-content/themes/wundertheme2022-child/assets/img/logo-dark.svg
   name: Skillpack
   #introTitle: "**Wrk** is the open-source uptime monitor and status page, powered entirely by GitHub."
   #introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
