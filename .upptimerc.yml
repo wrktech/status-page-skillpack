@@ -17,7 +17,7 @@ status-website:
   navbar:
     - title: Status
       href: /
-    - title: Community Portal
+    - title: SkillPack Portal
       href: https://portal.skillpack.io/
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
