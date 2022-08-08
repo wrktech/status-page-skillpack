@@ -4,17 +4,17 @@
     "url": "https://portal.skillpack.io/health",
     "icon": "https://favicons.githubusercontent.com/portal.skillpack.io",
     "slug": "community",
-    "status": "degraded",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 330,
-    "timeDay": 1157,
-    "timeWeek": 647,
-    "timeMonth": 478,
-    "timeYear": 330,
+    "time": 331,
+    "timeDay": 1173,
+    "timeWeek": 664,
+    "timeMonth": 484,
+    "timeYear": 331,
     "dailyMinutesDown": {}
   }
 ]
