@@ -1,20 +1,20 @@
 [
   {
-    "name": "Community",
+    "name": "SkillPack",
     "url": "https://portal.skillpack.io/health",
     "icon": "https://favicons.githubusercontent.com/portal.skillpack.io",
-    "slug": "community",
+    "slug": "skill-pack",
     "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 334,
-    "timeDay": 1313,
-    "timeWeek": 729,
-    "timeMonth": 506,
-    "timeYear": 334,
+    "time": 441,
+    "timeDay": 441,
+    "timeWeek": 441,
+    "timeMonth": 441,
+    "timeYear": 441,
     "dailyMinutesDown": {}
   }
 ]
