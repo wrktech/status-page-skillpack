@@ -4,19 +4,19 @@
     "url": "https://portal.skillpack.io/health",
     "icon": "https://favicons.githubusercontent.com/portal.skillpack.io",
     "slug": "skill-pack",
-    "status": "down",
-    "uptime": "96.87%",
-    "uptimeDay": "96.87%",
-    "uptimeWeek": "96.87%",
-    "uptimeMonth": "96.87%",
-    "uptimeYear": "96.87%",
-    "time": 348,
-    "timeDay": 348,
-    "timeWeek": 348,
-    "timeMonth": 348,
-    "timeYear": 348,
+    "status": "up",
+    "uptime": "94.75%",
+    "uptimeDay": "94.75%",
+    "uptimeWeek": "94.75%",
+    "uptimeMonth": "94.75%",
+    "uptimeYear": "94.75%",
+    "time": 326,
+    "timeDay": 326,
+    "timeWeek": 326,
+    "timeMonth": 326,
+    "timeYear": 326,
     "dailyMinutesDown": {
-      "2022-08-09": 27
+      "2022-08-09": 46
     }
   }
 ]
