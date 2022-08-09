@@ -1,7 +1,7 @@
 url: https://portal.skillpack.io/health
-status: up
-code: 200
-responseTime: 391
-lastUpdated: 2022-08-09T20:58:35.258Z
+status: down
+code: 502
+responseTime: 810
+lastUpdated: 2022-08-09T22:06:09.462Z
 startTime: Mon Aug 08 2022 23:15:06 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
