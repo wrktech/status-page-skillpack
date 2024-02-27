@@ -1,7 +1,7 @@
 url: https://portal.skillpack.io/health
-status: up
+status: degraded
 code: 200
-responseTime: 266
-lastUpdated: 2024-02-27T17:18:42.146Z
+responseTime: 321
+lastUpdated: 2024-02-27T19:30:29.424Z
 startTime: 2022-08-08T23:15:06.000Z
 generator: Upptime <https://github.com/upptime/upptime>
