@@ -4,17 +4,17 @@
     "url": "https://portal.skillpack.io/health",
     "icon": "https://icons.duckduckgo.com/ip3/portal.skillpack.io.ico",
     "slug": "skill-pack",
-    "status": "up",
+    "status": "degraded",
     "uptime": "98.61%",
-    "uptimeDay": "99.27%",
-    "uptimeWeek": "99.57%",
-    "uptimeMonth": "92.78%",
-    "uptimeYear": "97.72%",
+    "uptimeDay": "99.26%",
+    "uptimeWeek": "99.56%",
+    "uptimeMonth": "92.89%",
+    "uptimeYear": "97.73%",
     "time": 283,
-    "timeDay": 223,
-    "timeWeek": 273,
-    "timeMonth": 256,
-    "timeYear": 268,
+    "timeDay": 297,
+    "timeWeek": 290,
+    "timeMonth": 259,
+    "timeYear": 269,
     "dailyMinutesDown": {
       "2024-03-28": 11,
       "2024-03-24": 17,
@@ -67,8 +67,7 @@
       "2023-12-30": 15,
       "2023-12-29": 18,
       "2023-12-27": 16,
-      "2023-12-26": 17,
-      "2023-12-25": 18
+      "2023-12-26": 17
     }
   }
 ]
